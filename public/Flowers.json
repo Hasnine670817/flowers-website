@@ -1,0 +1,515 @@
+[
+    {
+        "id": 1,
+        "name": "Rose",
+        "thumbnail": "https://i.ibb.co.com/p749sq9/rose.jpg",
+        "details": "The rose is one of the most widely recognized and culturally significant flowers. Roses come in thousands of varieties and a broad palette of colors. They are celebrated for their layered petals, symbolic meanings (love, friendship, secrecy), and their use in perfumes, cosmetics, and ceremonial decorations. Cultivation ranges from low-growing groundcover types to tall climbing varieties. Roses require well-drained soil and regular pruning for optimal flowering.",
+        "moreInfo": {
+            "scientificName": "Rosa",
+            "family": "Rosaceae",
+            "color": [
+                "red",
+                "pink",
+                "white",
+                "yellow",
+                "orange"
+            ],
+            "fragrance": "Strong, sweet to musky depending on variety",
+            "bloomSeason": "Spring to Autumn (varies by cultivar)",
+            "heightCm": 100,
+            "uses": [
+                "ornamental",
+                "cut flowers",
+                "perfumery",
+                "culinary (rosewater, jams)",
+                "traditional medicine"
+            ],
+            "origin": "Asia, Europe, North America"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Tulip",
+        "thumbnail": "https://i.ibb.co.com/N24q1rKk/tulip.jpg",
+        "details": "Tulips are spring-blooming bulbs prized for their simple, cup-shaped flowers and vivid colors. They are central to horticultural traditions in regions such as the Netherlands and Turkey. Tulips are typically planted as bulbs in the autumn and bloom in early to mid-spring. Their disciplined form makes them a favorite for mass plantings, cut-flower production, and formal garden displays.",
+        "moreInfo": {
+            "scientificName": "Tulipa",
+            "family": "Liliaceae",
+            "color": [
+                "red",
+                "yellow",
+                "pink",
+                "purple",
+                "white",
+                "bi-color"
+            ],
+            "fragrance": "Mild or none",
+            "bloomSeason": "Spring",
+            "heightCm": 35,
+            "uses": [
+                "ornamental",
+                "cut flowers",
+                "landscaping"
+            ],
+            "origin": "Central Asia, introduced widely in Europe"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Lily",
+        "thumbnail": "https://i.ibb.co.com/XrymyK6W/lily.jpg",
+        "details": "Lilies are elegant, often large flowers with a trumpet or bowl shape, known for dramatic blooms and strong fragrances in many species. They are popular in floral arrangements, weddings, and as focal plants in gardens. Lilies prefer well-drained soil and can be grown from bulbs; many varieties rebloom and are long-lived perennials when well cared for.",
+        "moreInfo": {
+            "scientificName": "Lilium",
+            "family": "Liliaceae",
+            "color": [
+                "white",
+                "orange",
+                "pink",
+                "yellow",
+                "red"
+            ],
+            "fragrance": "Strong, sweet to spicy depending on species",
+            "bloomSeason": "Summer",
+            "heightCm": 90,
+            "uses": [
+                "ornamental",
+                "cut flowers",
+                "ceremonial uses"
+            ],
+            "origin": "Northern Hemisphere (temperate regions)"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Sunflower",
+        "thumbnail": "https://i.ibb.co.com/7t6n01wT/sunflower.jpg",
+        "details": "Sunflowers are instantly recognizable for their large, round flower heads with bright yellow ray florets surrounding a central disk. They track the sun during growth (heliotropism) and are cultivated both for their striking ornamental value and for agricultural products such as seeds and oil. Sunflowers thrive in full sun and well-drained soils and can reach impressive heights.",
+        "moreInfo": {
+            "scientificName": "Helianthus annuus",
+            "family": "Asteraceae",
+            "color": [
+                "yellow",
+                "gold",
+                "orange",
+                "red (varieties)"
+            ],
+            "fragrance": "Mild to none",
+            "bloomSeason": "Summer to Early Autumn",
+            "heightCm": 250,
+            "uses": [
+                "oil production",
+                "edible seeds",
+                "ornamental",
+                "bird feed"
+            ],
+            "origin": "North America"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Orchid",
+        "thumbnail": "https://i.ibb.co.com/TGKTt2S/orchid.jpg",
+        "details": "Orchids constitute a large and diverse family of flowering plants appreciated for exotic forms, intricate petal patterns, and often long-lasting blooms. Many orchids are epiphytic (growing on other plants) and have complex relationships with pollinators. They are prized as houseplants and luxury cut flowers; growing needs vary widely across species, with careful attention to light, humidity, and potting media required for best results.",
+        "moreInfo": {
+            "scientificName": "Orchidaceae",
+            "family": "Orchidaceae",
+            "color": [
+                "white",
+                "pink",
+                "purple",
+                "yellow",
+                "green",
+                "multi-color"
+            ],
+            "fragrance": "Varies from sweet to spicy or none",
+            "bloomSeason": "Varies by species (year-round in controlled conditions)",
+            "heightCm": 45,
+            "uses": [
+                "ornamental",
+                "floral industry",
+                "horticultural collections"
+            ],
+            "origin": "Worldwide (especially tropical regions)"
+        }
+    },
+    {
+        "id": 6,
+        "name": "Marigold",
+        "thumbnail": "https://i.ibb.co.com/8Dhvc4pr/marigold.jpg",
+        "details": "Marigolds are hardy annuals known for their vibrant orange and yellow blooms and pungent scent. They are widely used in ceremonial garlands, companion planting for pest control, and mass bedding displays. Marigolds are easy to grow from seed and bloom profusely through warm seasons. Their allelopathic properties can deter certain nematodes and pests in vegetable gardens.",
+        "moreInfo": {
+            "scientificName": "Tagetes",
+            "family": "Asteraceae",
+            "color": [
+                "orange",
+                "yellow",
+                "gold",
+                "red (varieties)"
+            ],
+            "fragrance": "Pungent, spicy",
+            "bloomSeason": "Summer to Autumn",
+            "heightCm": 45,
+            "uses": [
+                "ornamental",
+                "rituals and festivals",
+                "companion planting",
+                "natural pest deterrent"
+            ],
+            "origin": "Americas"
+        }
+    },
+    {
+        "id": 7,
+        "name": "Daffodil",
+        "thumbnail": "https://i.ibb.co.com/6cLqYv8P/daffodil.jpg",
+        "details": "Daffodils are cheerful spring bulbs with trumpet-shaped central coronas surrounded by a ring of petals. They are valued for early-season color and resilience in temperate climates. Daffodils naturalize well in meadows and under trees, often forming impressive drifts. Some species contain toxins and should be handled with care around pets and children.",
+        "moreInfo": {
+            "scientificName": "Narcissus",
+            "family": "Amaryllidaceae",
+            "color": [
+                "yellow",
+                "white",
+                "cream",
+                "orange"
+            ],
+            "fragrance": "Mild, sweet in some varieties",
+            "bloomSeason": "Spring",
+            "heightCm": 35,
+            "uses": [
+                "ornamental",
+                "landscaping",
+                "naturalizing in lawns"
+            ],
+            "origin": "Europe, North Africa"
+        }
+    },
+    {
+        "id": 8,
+        "name": "Carnation",
+        "thumbnail": "https://i.ibb.co.com/fdYZsrsx/carnation.jpg",
+        "details": "Carnations are long-lasting cut flowers noted for their frilled petals and a broad range of colors. They have cultural significance in many countries and are frequently used in bouquets, boutonnieres, and funeral arrangements. Carnations grow well in well-drained soil and cooler climates, and many hybrids have been developed for increased durability and unique color patterns.",
+        "moreInfo": {
+            "scientificName": "Dianthus caryophyllus",
+            "family": "Caryophyllaceae",
+            "color": [
+                "pink",
+                "red",
+                "white",
+                "yellow",
+                "striped"
+            ],
+            "fragrance": "Sweet, spicy",
+            "bloomSeason": "Year-round in controlled production, spring to autumn outdoors",
+            "heightCm": 60,
+            "uses": [
+                "cut flowers",
+                "bouquets",
+                "ornamental borders"
+            ],
+            "origin": "Mediterranean region"
+        }
+    },
+    {
+        "id": 9,
+        "name": "Peony",
+        "thumbnail": "https://i.ibb.co.com/pBvWxKLg/peony.jpg",
+        "details": "Peonies produce large, often fragrant blooms composed of many overlapping petals. They are cherished in temperate gardens for their lush, showy flowers and longevity; many peony plants live for decades. Peonies prefer well-drained, fertile soil and a cold dormancy period to set abundant buds. They are commonly used in wedding bouquets and high-end floral design.",
+        "moreInfo": {
+            "scientificName": "Paeonia",
+            "family": "Paeoniaceae",
+            "color": [
+                "pink",
+                "red",
+                "white",
+                "yellow"
+            ],
+            "fragrance": "Strong and often sweet",
+            "bloomSeason": "Late spring to early summer",
+            "heightCm": 70,
+            "uses": [
+                "ornamental",
+                "cut flowers",
+                "traditional medicine (historical uses)"
+            ],
+            "origin": "Asia, Europe, North America"
+        }
+    },
+    {
+        "id": 10,
+        "name": "Jasmine",
+        "thumbnail": "https://i.ibb.co.com/1fnM4wMt/jasmine.jpg",
+        "details": "Jasmine features small, star-shaped flowers famed for an intense, sweet fragrance that is widely used in perfumery and tea flavoring. Many jasmine species are vines or shrubs and are grown on trellises, arbors, and patios. They prefer warm climates and often bloom in summer or late spring, filling evenings with scent.",
+        "moreInfo": {
+            "scientificName": "Jasminum",
+            "family": "Oleaceae",
+            "color": [
+                "white",
+                "yellow",
+                "cream"
+            ],
+            "fragrance": "Very strong, sweet and heady",
+            "bloomSeason": "Late spring to summer",
+            "heightCm": 300,
+            "uses": [
+                "perfume industry",
+                "flavoring teas",
+                "ornamental vine or shrub"
+            ],
+            "origin": "Tropical and subtropical regions of Eurasia and Oceania"
+        }
+    },
+    {
+        "id": 11,
+        "name": "Lavender",
+        "thumbnail": "https://i.ibb.co.com/S4qJMCzV/lavender.jpg",
+        "details": "Lavender is a fragrant herb with spikes of small purple flowers and silver-gray foliage. It is widely cultivated for essential oils used in aromatherapy, soaps, and sachets. Lavender attracts pollinators, tolerates dry, well-drained soils, and often thrives in Mediterranean climates. The plant is also used in culinary applications and crafts.",
+        "moreInfo": {
+            "scientificName": "Lavandula",
+            "family": "Lamiaceae",
+            "color": [
+                "purple",
+                "violet",
+                "blue",
+                "white"
+            ],
+            "fragrance": "Strong, calming aromatic",
+            "bloomSeason": "Summer",
+            "heightCm": 60,
+            "uses": [
+                "essential oil production",
+                "aromatherapy",
+                "dried flower crafts",
+                "culinary flavoring"
+            ],
+            "origin": "Mediterranean region"
+        }
+    },
+    {
+        "id": 12,
+        "name": "Chrysanthemum",
+        "thumbnail": "https://i.ibb.co.com/k2nxGrVz/chrysanthemum.jpg",
+        "details": "Chrysanthemums, or mums, have densely petaled blooms in many forms and colors. They are significant in many cultural traditions and are widely used for autumn displays. Chrysanthemums often perform well in cooler seasons and are available as garden plants and cut flowers. Some species are used for teas and traditional medicines.",
+        "moreInfo": {
+            "scientificName": "Chrysanthemum",
+            "family": "Asteraceae",
+            "color": [
+                "white",
+                "yellow",
+                "pink",
+                "red",
+                "purple"
+            ],
+            "fragrance": "Mild to moderate",
+            "bloomSeason": "Autumn",
+            "heightCm": 50,
+            "uses": [
+                "ornamental displays",
+                "cut flowers",
+                "tea (certain species)",
+                "traditional medicine"
+            ],
+            "origin": "Asia"
+        }
+    },
+    {
+        "id": 13,
+        "name": "Daisy",
+        "thumbnail": "https://i.ibb.co.com/9H9WWDfQ/daisy.jpg",
+        "details": "Daisies are simple, cheerful flowers with a central yellow disk and surrounding white ray petals. They symbolize innocence and are common in meadows and lawns. Daisies are low-maintenance, tolerant of varied soils, and are ideal for informal plantings and wildflower gardens. Many daisy-like plants belong to the Asteraceae family.",
+        "moreInfo": {
+            "scientificName": "Bellis perennis",
+            "family": "Asteraceae",
+            "color": [
+                "white",
+                "yellow",
+                "pink (cultivars)"
+            ],
+            "fragrance": "None to mild",
+            "bloomSeason": "Spring to Summer",
+            "heightCm": 15,
+            "uses": [
+                "ornamental",
+                "groundcover",
+                "wildflower gardens"
+            ],
+            "origin": "Europe, naturalized elsewhere"
+        }
+    },
+    {
+        "id": 14,
+        "name": "Hydrangea",
+        "thumbnail": "https://i.ibb.co.com/wFYNy08k/hydrangea.jpg",
+        "details": "Hydrangeas produce large clusters of small flowers, forming ball-shaped or conical inflorescences. Soil pH can influence the bloom color of some species, producing blue tones in acidic soils and pink in alkaline soils. Hydrangeas are popular in cottage and formal gardens and provide abundant summer color when planted in partial shade with adequate moisture.",
+        "moreInfo": {
+            "scientificName": "Hydrangea",
+            "family": "Hydrangeaceae",
+            "color": [
+                "blue",
+                "pink",
+                "white",
+                "purple"
+            ],
+            "fragrance": "Mild to none",
+            "bloomSeason": "Summer",
+            "heightCm": 120,
+            "uses": [
+                "ornamental",
+                "cut flowers",
+                "landscape specimen"
+            ],
+            "origin": "Asia, Americas"
+        }
+    },
+    {
+        "id": 15,
+        "name": "Lotus",
+        "thumbnail": "https://i.ibb.co.com/93YSdt8B/lotus.jpg",
+        "details": "The lotus is an aquatic perennial known for large, showy flowers that rise above the water on long stalks. It holds deep cultural and religious symbolism in many Asian cultures and is cultivated in ponds and water gardens. Lotus plants prefer warm, sunny conditions and shallow, muddy water; seeds and tubers are also used in culinary traditions.",
+        "moreInfo": {
+            "scientificName": "Nelumbo nucifera",
+            "family": "Nelumbonaceae",
+            "color": [
+                "pink",
+                "white",
+                "yellow (rare)"
+            ],
+            "fragrance": "Mild, sweet",
+            "bloomSeason": "Summer",
+            "heightCm": 150,
+            "uses": [
+                "ornamental water gardens",
+                "religious symbolism",
+                "culinary (seeds, roots)",
+                "traditional medicine"
+            ],
+            "origin": "Asia"
+        }
+    },
+    {
+        "id": 16,
+        "name": "Iris",
+        "thumbnail": "https://i.ibb.co.com/d4Z7Q2QX/iris.jpg",
+        "details": "Irises are known for their distinctive three-petal 'standards' and three-drooping 'falls', often exhibiting bold patterns and rich colors. They are used in borders and rock gardens, and certain species are cultivated for iris root (orris root) used in perfumery. Irises prefer full sun to partial shade and well-drained soils.",
+        "moreInfo": {
+            "scientificName": "Iris",
+            "family": "Iridaceae",
+            "color": [
+                "purple",
+                "blue",
+                "yellow",
+                "white",
+                "bicolour"
+            ],
+            "fragrance": "Mild to strong depending on variety",
+            "bloomSeason": "Spring to Early Summer",
+            "heightCm": 60,
+            "uses": [
+                "ornamental",
+                "perfumery (orris root)",
+                "cut flowers"
+            ],
+            "origin": "Northern Hemisphere"
+        }
+    },
+    {
+        "id": 17,
+        "name": "Begonia",
+        "thumbnail": "https://i.ibb.co.com/8LFM1SnW/begonia.jpg",
+        "details": "Begonias are a diverse group of plants grown for their attractive flowers and often striking foliage. Many species and hybrids are suited for indoor pots, hanging baskets, and shaded garden borders. Begonias prefer humidity, good drainage, and indirect light. They offer continuous blooms in appropriate conditions and are a staple of shade gardening.",
+        "moreInfo": {
+            "scientificName": "Begonia",
+            "family": "Begoniaceae",
+            "color": [
+                "pink",
+                "red",
+                "white",
+                "orange"
+            ],
+            "fragrance": "None to mild",
+            "bloomSeason": "Spring to Autumn",
+            "heightCm": 30,
+            "uses": [
+                "indoor ornamental",
+                "shade garden",
+                "bedding plants"
+            ],
+            "origin": "Tropical and subtropical regions"
+        }
+    },
+    {
+        "id": 18,
+        "name": "Gardenia",
+        "thumbnail": "https://i.ibb.co.com/gLbHfvW0/gardenia.jpg",
+        "details": "Gardenias are evergreen shrubs prized for glossy dark leaves and strongly fragrant white flowers. Their scent is rich and heady, making them popular in perfumery and as prized specimens in warm climates and containers. Gardenias need acidic, well-drained soil and high humidity to thrive; they can be fussy but reward gardeners with luxurious blooms.",
+        "moreInfo": {
+            "scientificName": "Gardenia jasminoides",
+            "family": "Rubiaceae",
+            "color": [
+                "white",
+                "cream"
+            ],
+            "fragrance": "Very strong, sweet and intoxicating",
+            "bloomSeason": "Late Spring to Summer",
+            "heightCm": 150,
+            "uses": [
+                "ornamental",
+                "perfume",
+                "cut flowers"
+            ],
+            "origin": "Asia, Africa"
+        }
+    },
+    {
+        "id": 19,
+        "name": "Freesia",
+        "thumbnail": "https://i.ibb.co.com/PvXtNvB2/freesia.jpg",
+        "details": "Freesias produce delicate, funnel-shaped flowers on arching stems and are prized for a fresh, citrusy fragrance. They make excellent cut flowers due to long vase life and come in a variety of bright colors. Freesias prefer well-drained soil, full to partial sun, and are commonly grown from corms for spring displays and commercial floriculture.",
+        "moreInfo": {
+            "scientificName": "Freesia",
+            "family": "Iridaceae",
+            "color": [
+                "white",
+                "yellow",
+                "pink",
+                "purple",
+                "orange"
+            ],
+            "fragrance": "Strong, sweet and citrus-like",
+            "bloomSeason": "Spring",
+            "heightCm": 40,
+            "uses": [
+                "cut flowers",
+                "perfume notes",
+                "ornamental borders"
+            ],
+            "origin": "Southern Africa"
+        }
+    },
+    {
+        "id": 20,
+        "name": "Anemone",
+        "thumbnail": "https://i.ibb.co.com/rKthKYFD/anemone.jpg",
+        "details": "Anemones, often called windflowers, display single or double blooms with vivid petals and a prominent central disk. They are valued in spring bulb plantings and as elegant cut flowers. Anemones grow from tubers or rhizomes and prefer cool climates with well-drained soil. Their colors range from delicate pastels to saturated hues, adding graceful movement to garden beds.",
+        "moreInfo": {
+            "scientificName": "Anemone",
+            "family": "Ranunculaceae",
+            "color": [
+                "red",
+                "white",
+                "pink",
+                "purple",
+                "blue"
+            ],
+            "fragrance": "None to mild",
+            "bloomSeason": "Spring",
+            "heightCm": 30,
+            "uses": [
+                "ornamental",
+                "cut flowers",
+                "garden naturalizing"
+            ],
+            "origin": "Temperate regions of the Northern Hemisphere"
+        }
+    }
+]
