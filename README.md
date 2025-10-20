@@ -20,7 +20,9 @@ Check out the live site here:
 
 ## 🖼️ Preview
 
-![Flower Website Screenshot](https://i.ibb.co.com/PZmJ6fmG/flowers-website-ss.png)
+<div align="center">
+  <img src="https://i.ibb.co/PZmJ6fmG/flowers-website-ss.png" alt="Flower Website Screenshot" style="width:100%; max-width:1000px; height:auto; border-radius:8px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
+</div>
 
 ---
 
